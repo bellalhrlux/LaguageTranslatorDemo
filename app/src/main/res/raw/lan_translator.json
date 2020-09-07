@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "demotranslator-288809",
+  "private_key_id": "7e373fb772ad4bea38ef03ac75ba976dd385d2b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnCOm/JcYGB6z+\nfyMTR3xdL/sM/KW23+HKHYDm095m9Vm5Pna+w/bBZsXprsbEvGS+01o9tfIVj8WT\nbNxOQOO5HeR3iPTTONRpT7pnYTH2ZvcvH/yDUuEs2VP9OCle+0ResJ39QoRtahq0\nrqhnXdP18FA7SkUJxVYlFSt08baAaX33wn+A+MzLRucY7YQGDiVIDIuFnpVpMR3j\npaECvG0+9Ww2YLuZ6pOJelMllJA708FBd8KLPGJdPveJNSJq+PaQBVk1czOXJu6S\n8mhmCaG5sQLUbz6fLFGtZpE8h1IIO/m12+xTcAxTQIW0FewhO2Et/GBgpZPD4bBH\nTBONlw73AgMBAAECggEAKUHa1oNif5/Ku4u0orDwB2ZwCJuo5Nw0vYL/EUS4tM6a\nTFag5uqpWsjjTp6Eaxire7Thn8d+lZPO9eSYH94IQXOgOGREMJ3jXWW7gYhw2k9B\nc8rfSKKiirzdcXi7Q0Il94uBYopZAluIYCOZ5fo3fhJPBu4H0muDJSKu+rIvZVUC\n67o50Fd5N4uyXzgj5Dcu7JVb4MZhGmlDYfmxYn7UDkUUAav3+jywtqv2PWGRfiX0\nNb0uUhuT42F0Y1BCl2L4XaxhC6DCPu8qChFfyCLMpM8a3IZWc5wdjqxu/sYjq2jy\nHkK56fj3iLClV+H1KX8KgzYLRdSmE4xgNe7oyy6+0QKBgQDYtNuNtJ2WCq45Upnx\nyqPktv14kzCQncSGmUdhTNCQUbcNVmFiru61Sdlb6qOgNuLbVcyLm1G5g0to74Ja\nkSslcFajN1SPDZ8rMcaBEpdhMPuPUnWBG1Jebm+0tb26cjDH8z0KnPQ3ADgLkHXL\nN8D7ulWVJT7GiANd1FDBr0oGkQKBgQDFUmHjGvlyV3pGwl9iDhK9UQNM8/3Ir7YJ\nnnAQ+a0J1LiK4Be9NhfOOPnWcuuUEcJ37zSCO/KA85z5sW8QUbe+V3DtbEem9C2Q\njCxHE2M/WKDVhmaHoJv6TXlyy1N9MtQchpk3n3WeNzRQmfpNmNwPRgyNuxMcpusw\n7NDovy1RBwKBgEKZSoRBRtDu1V5eiVsqyLWomztsGNfI9LXc83fusIY55sTdkC5Q\nzqG+YWODN+gsFgoMU0FwaWxW8lz8hpYo2Ra3cJjWj1ErgYg30ual/QnskNMaJ2yX\nJfhJfmEOHZHoOB+rHE5fsBobIh5Dtj/PEasLN/QPLzy6XjZ+4paztU9RAoGADPlG\nsFz0q7zusDpVdSgBuWrbMbMVK53J9UXyjlssMmpHG/Jx/SHSXN/IJX522Mx2Idab\neDii0DG0T4KID+WflCdBqIqnB2YknM1ql93Bd8fHA2ML2L0JpGJ1qsONoLy3z4xW\nBJ86Z4WvreEB4Ro81dBAQQ1cy1R6QERB1BvFyf8CgYB9qH24pTkHiHYF0ew34o7S\neUGMGICkfMZ2P/ah/aDr7QBY+YurtTdTTJfZTzkagXUXVmU8ajj1vOyNOXK28kbj\nz2elUpZVDQ67l6msEIE50gLeEJ+rhIObmK6Wkab6T5BLU7yTPzS362NAgkAJPtex\niYQdQr1jfzrnT827jDqunQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bellal-hosain@demotranslator-288809.iam.gserviceaccount.com",
+  "client_id": "110685095889520154594",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bellal-hosain%40demotranslator-288809.iam.gserviceaccount.com"
+}
